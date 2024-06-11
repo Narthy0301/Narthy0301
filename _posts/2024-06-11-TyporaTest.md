@@ -20,7 +20,7 @@ Ctrl + 1/2/3/4/5/6
 
 Image
 
-![download](C:\Users\aaqq0\Desktop\download.jpg)
+![Github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzWgwMV7-weSaq4v-hbWUsgU5U-ur8vAHag&s)
 
 Codes
 
